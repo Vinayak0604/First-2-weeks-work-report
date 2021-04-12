@@ -1,0 +1,2 @@
+1) Week 1: Completed Python Material provided by the mentor, also completed week 1 of web dev
+2) Week 2: Completed HTML and CSS from week 2 of web dev, read baiscs of django and watched basic videos of Bootstrap
